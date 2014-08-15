@@ -1,0 +1,1 @@
+-Dlog4j.debug=true -Dlog4j.configuration=/Volumes/workspace/startup/meddb/hello-doctor/src/main/resources/log4j.properties
